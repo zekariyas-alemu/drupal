@@ -1,0 +1,12 @@
+name = File
+description = Defines a file field type.
+package = Core
+version = VERSION
+core = 7.x
+dependencies[] = field
+files[] = tests/file.test
+
+; Information added by Drupal.org packaging script on 2022-01-19
+version = "7.86"
+project = "drupal"
+datestamp = "1642608712"

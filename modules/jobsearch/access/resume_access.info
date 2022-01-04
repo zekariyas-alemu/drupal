@@ -1,0 +1,21 @@
+; $Id: resume_access.info,v 1.3.2.2 2014/01/13 15:35:40 lalit774 Exp $
+name = Resume access
+description = "Allows setting of permissions on resumes by role."
+core = 7.x
+package = Job Search
+dependencies[] = resume
+
+
+; Information added by drupal.org packaging script on 2014-01-15
+version = "7.x-0.1"
+core = "7.x"
+project = "jobsearch"
+datestamp = "1275358507"
+
+
+; Information added by Drupal.org packaging script on 2014-02-18
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "jobsearch"
+datestamp = "1392700116"
+

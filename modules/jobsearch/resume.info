@@ -1,0 +1,18 @@
+name = Resume
+description = "Allows job seekers to post resumes and use them to apply for jobs posted."
+core = 7.x
+package = Job Search
+
+; Information added by drupal.org packaging script on 2013-12-14
+version = "7.x-0.1"
+core = "7.x"
+project = "jobsearch"
+datestamp = "1275358507"
+
+
+; Information added by Drupal.org packaging script on 2014-02-18
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "jobsearch"
+datestamp = "1392700116"
+
